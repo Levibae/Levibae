@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Levibae
 - 👀 I’m interested in levi
-- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on levi
-- 📫 How to reach me email
+- 📫 How to reach me i don't want no one emailing me
 
 <!---
 Levibae/Levibae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
